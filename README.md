@@ -1,5 +1,3 @@
----
-
 # SparkDB - Aptitude Question Manager 🧠📚
 
 Live Demo:
