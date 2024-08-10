@@ -2,7 +2,7 @@
 
 # SparkDB - Aptitude Question Manager 🧠📚
 
-Live Demo: 
+Live Demo:
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
